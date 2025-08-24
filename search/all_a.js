@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['jaccard_5findex_0',['jaccard_index',['../d1/d51/classroaring_1_1Roaring.html#add2c2d7d75b08900498ee7744a61a210',1,'roaring::Roaring']]],
-  ['javascript_20node_20js_1',['JavaScript (Node.js)',['../index.html#autotoc_md26',1,'']]],
-  ['js_2',['JavaScript (Node.js)',['../index.html#autotoc_md26',1,'']]]
+  ['idx_0',['idx',['../db/d0d/structroaring__bulk__context__s.html#a54c6dae812b9d8c5bfb96fa6cc2a0bba',1,'roaring_bulk_context_s']]],
+  ['introduction_1',['Introduction',['../index.html#autotoc_md2',1,'']]],
+  ['iteration_2',['iteration',['../index.html#autotoc_md15',1,'Iteration'],['../index.html#autotoc_md24',1,'Iteration']]]
 ];

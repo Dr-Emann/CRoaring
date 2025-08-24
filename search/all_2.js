@@ -1,15 +1,21 @@
 var searchData=
 [
-  ['begin_0',['begin',['../d1/d51/classroaring_1_1Roaring.html#a6b5fe6688c18bcd0b91abc55f47e73bc',1,'roaring::Roaring::begin()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a54da377e9b105600f71d38411cace92a',1,'roaring::Roaring64Map::begin()']]],
-  ['below_1',['Building with cmake (Linux and macOS, Visual Studio users should see below)',['../index.html#autotoc_md17',1,'']]],
-  ['best_20aggregate_20bitmaps_2',['How to best aggregate bitmaps?',['../index.html#autotoc_md23',1,'']]],
-  ['bit_20roaring_20bitmaps_20c_3',['Compressed 64-bit Roaring bitmaps (C)',['../index.html#autotoc_md14',1,'']]],
-  ['bitmapof_4',['bitmapof',['../d1/d51/classroaring_1_1Roaring.html#a5e297902e9c95a996b12f1d6f1abbf31',1,'roaring::Roaring::bitmapOf()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#aa5b07277062ffefaf5c3ea808f9d2ce3',1,'roaring::Roaring64Map::bitmapOf()']]],
-  ['bitmapoflist_5',['bitmapoflist',['../d1/d51/classroaring_1_1Roaring.html#a43bc331cee0889b2ae0d1cd3f85ac10f',1,'roaring::Roaring::bitmapOfList()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a96b246b0d078bf131c5e59e500149ba0',1,'roaring::Roaring64Map::bitmapOfList()']]],
-  ['bitmaps_6',['bitmaps',['../index.html#autotoc_md23',1,'How to best aggregate bitmaps?'],['../index.html#autotoc_md24',1,'Wrappers for Roaring Bitmaps']]],
-  ['bitmaps_20c_7',['Compressed 64-bit Roaring bitmaps (C)',['../index.html#autotoc_md14',1,'']]],
-  ['bitsets_20c_8',['Conventional bitsets (C)',['../index.html#autotoc_md15',1,'']]],
-  ['building_20visual_20studio_20under_20windows_9',['Building (Visual Studio under Windows)',['../index.html#autotoc_md18',1,'']]],
-  ['building_20with_20cmake_20linux_20and_20macos_20visual_20studio_20users_20should_20see_20below_10',['Building with cmake (Linux and macOS, Visual Studio users should see below)',['../index.html#autotoc_md17',1,'']]],
-  ['bulkcontext_11',['bulkcontext',['../d6/d7d/classroaring_1_1BulkContext.html#a788364255970a019e420cdcc90e7d627',1,'roaring::BulkContext::BulkContext(BulkContext &amp;&amp;) noexcept=default'],['../d6/d7d/classroaring_1_1BulkContext.html#a66476ef945f422d88202f1da5585a0e7',1,'roaring::BulkContext::BulkContext(const BulkContext &amp;)=delete'],['../d6/d7d/classroaring_1_1BulkContext.html#a37535c67451f0c4bd2539527e87273c5',1,'roaring::BulkContext::BulkContext()'],['../d6/d7d/classroaring_1_1BulkContext.html',1,'roaring::BulkContext']]]
+  ['a_20cmake_20dependency_20with_20fetchcontent_0',['Using as a CMake dependency with FetchContent',['../index.html#autotoc_md8',1,'']]],
+  ['a_20cpm_20dependency_1',['Using Roaring as a CPM dependency',['../index.html#autotoc_md7',1,'']]],
+  ['about_20roaring_2',['References about Roaring',['../index.html#autotoc_md55',1,'']]],
+  ['adding_20and_20removing_20values_3',['Adding and Removing Values',['../index.html#autotoc_md13',1,'']]],
+  ['aggregate_20bitmaps_4',['How to best aggregate bitmaps?',['../index.html#autotoc_md42',1,'']]],
+  ['allocators_5',['Custom memory allocators',['../index.html#autotoc_md30',1,'']]],
+  ['amalgamating_6',['Amalgamating',['../index.html#autotoc_md9',1,'']]],
+  ['and_2064_20bit_7',['Common Methods (32-bit and 64-bit)',['../index.html#autotoc_md22',1,'']]],
+  ['and_20cardinality_8',['Queries and Cardinality',['../index.html#autotoc_md14',1,'']]],
+  ['and_20deserialization_9',['and deserialization',['../index.html#autotoc_md17',1,'Serialization and Deserialization'],['../index.html#autotoc_md25',1,'Serialization and Deserialization']]],
+  ['and_20destruction_10',['Creation and Destruction',['../index.html#autotoc_md12',1,'']]],
+  ['and_20macos_11',['Usage (Using &lt;tt&gt;vcpkg&lt;/tt&gt; on Windows, Linux and macOS)',['../index.html#autotoc_md38',1,'']]],
+  ['and_20macos_20visual_20studio_20or_20openharmony_20users_20should_20see_20below_12',['Building with cmake (Linux and macOS, Visual Studio or OpenHarmony users should see below)',['../index.html#autotoc_md35',1,'']]],
+  ['and_20removing_20values_13',['Adding and Removing Values',['../index.html#autotoc_md13',1,'']]],
+  ['api_14',['API',['../index.html#autotoc_md10',1,'']]],
+  ['api_20functions_15',['api functions',['../index.html#autotoc_md20',1,'C++ API functions'],['../index.html#autotoc_md11',1,'Main API functions']]],
+  ['as_20a_20cmake_20dependency_20with_20fetchcontent_16',['Using as a CMake dependency with FetchContent',['../index.html#autotoc_md8',1,'']]],
+  ['as_20a_20cpm_20dependency_17',['Using Roaring as a CPM dependency',['../index.html#autotoc_md7',1,'']]]
 ];
