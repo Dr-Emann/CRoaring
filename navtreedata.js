@@ -84,7 +84,8 @@ var NAVTREE =
     ] ],
     [ "Mailing list/discussion group", "index.html#autotoc_md53", null ],
     [ "Contributing", "index.html#autotoc_md54", null ],
-    [ "References about Roaring", "index.html#autotoc_md55", null ],
+    [ "Stars", "index.html#autotoc_md55", null ],
+    [ "References about Roaring", "index.html#autotoc_md56", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -96,7 +97,7 @@ var NAVTREE =
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
+        [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
@@ -108,7 +109,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"index.html#autotoc_md24"
+"index.html#autotoc_md2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
