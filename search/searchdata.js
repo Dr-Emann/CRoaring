@@ -4,10 +4,10 @@ var indexSectionsWithContent =
   1: "r",
   2: "r",
   3: "r",
-  4: "chiklpt",
+  4: "chiklmptv",
   5: "r",
   6: "r",
-  7: "c"
+  7: "36abcdefghijlmnopqrstuvwz"
 };
 
 var indexSectionNames =

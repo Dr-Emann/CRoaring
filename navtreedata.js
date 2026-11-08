@@ -29,63 +29,69 @@ var NAVTREE =
     [ "Introduction", "index.html#autotoc_md2", null ],
     [ "Objective", "index.html#autotoc_md3", null ],
     [ "Requirements", "index.html#autotoc_md4", null ],
-    [ "Quick Start", "index.html#autotoc_md5", [
-      [ "Packages", "index.html#autotoc_md6", null ]
+    [ "Quick Start", "index.html#autotoc_md5", null ],
+    [ "How to use the library?", "index.html#autotoc_md6", [
+      [ "The C API", "index.html#autotoc_md7", null ],
+      [ "The C++ API", "index.html#autotoc_md8", null ],
+      [ "Packages", "index.html#autotoc_md9", null ]
     ] ],
-    [ "Using Roaring as a CPM dependency", "index.html#autotoc_md7", null ],
-    [ "Using as a CMake dependency with FetchContent", "index.html#autotoc_md8", null ],
-    [ "Amalgamating", "index.html#autotoc_md9", null ],
-    [ "API", "index.html#autotoc_md10", null ],
-    [ "Main API functions", "index.html#autotoc_md11", [
-      [ "Creation and Destruction", "index.html#autotoc_md12", null ],
-      [ "Adding and Removing Values", "index.html#autotoc_md13", null ],
-      [ "Queries and Cardinality", "index.html#autotoc_md14", null ],
-      [ "Iteration", "index.html#autotoc_md15", null ],
-      [ "Set Operations", "index.html#autotoc_md16", null ],
-      [ "Serialization and Deserialization", "index.html#autotoc_md17", null ],
-      [ "Validation", "index.html#autotoc_md18", null ],
-      [ "Notes", "index.html#autotoc_md19", null ]
+    [ "Using Roaring as a CPM dependency", "index.html#autotoc_md10", null ],
+    [ "Using as a CMake dependency with FetchContent", "index.html#autotoc_md11", null ],
+    [ "Amalgamating", "index.html#autotoc_md12", null ],
+    [ "API", "index.html#autotoc_md13", null ],
+    [ "Main API functions", "index.html#autotoc_md14", [
+      [ "Creation and Destruction", "index.html#autotoc_md15", null ],
+      [ "Adding and Removing Values", "index.html#autotoc_md16", null ],
+      [ "Queries and Cardinality", "index.html#autotoc_md17", null ],
+      [ "Iteration", "index.html#autotoc_md18", null ],
+      [ "Set Operations", "index.html#autotoc_md19", null ],
+      [ "Serialization and Deserialization", "index.html#autotoc_md20", null ],
+      [ "Validation", "index.html#autotoc_md21", null ],
+      [ "Notes", "index.html#autotoc_md22", null ]
     ] ],
-    [ "C++ API functions", "index.html#autotoc_md20", [
-      [ "Main Classes", "index.html#autotoc_md21", null ],
-      [ "Common Methods (32-bit and 64-bit)", "index.html#autotoc_md22", null ],
-      [ "Set Operations", "index.html#autotoc_md23", null ],
-      [ "Iteration", "index.html#autotoc_md24", null ],
-      [ "Serialization and Deserialization", "index.html#autotoc_md25", null ],
-      [ "Bulk Operations", "index.html#autotoc_md26", null ],
-      [ "Example Usage", "index.html#autotoc_md27", null ]
+    [ "C++ API functions", "index.html#autotoc_md23", [
+      [ "Main Classes", "index.html#autotoc_md24", null ],
+      [ "Common Methods (32-bit and 64-bit)", "index.html#autotoc_md25", null ],
+      [ "Set Operations", "index.html#autotoc_md26", null ],
+      [ "Iteration", "index.html#autotoc_md27", null ],
+      [ "Serialization and Deserialization", "index.html#autotoc_md28", null ],
+      [ "Bulk Operations", "index.html#autotoc_md29", null ],
+      [ "Example Usage", "index.html#autotoc_md30", null ],
+      [ "64-bit bitmaps", "index.html#autotoc_md31", null ]
     ] ],
-    [ "Dealing with large volumes of data", "index.html#autotoc_md28", null ],
-    [ "Running microbenchmarks", "index.html#autotoc_md29", null ],
-    [ "Custom memory allocators", "index.html#autotoc_md30", null ],
-    [ "Example (C)", "index.html#autotoc_md31", null ],
-    [ "Compressed 64-bit Roaring bitmaps (C)", "index.html#autotoc_md32", null ],
-    [ "Conventional bitsets (C)", "index.html#autotoc_md33", null ],
-    [ "Example (C++)", "index.html#autotoc_md34", null ],
-    [ "Building with cmake (Linux and macOS, Visual Studio or OpenHarmony users should see below)", "index.html#autotoc_md35", null ],
-    [ "Building (Visual Studio under Windows)", "index.html#autotoc_md36", [
-      [ "Usage (Using <tt>conan</tt>)", "index.html#autotoc_md37", null ],
-      [ "Usage (Using <tt>vcpkg</tt> on Windows, Linux and macOS)", "index.html#autotoc_md38", null ]
+    [ "Dealing with large volumes of data", "index.html#autotoc_md32", null ],
+    [ "Running microbenchmarks", "index.html#autotoc_md33", null ],
+    [ "Custom memory allocators", "index.html#autotoc_md34", [
+      [ "Memory allocation policy", "index.html#autotoc_md35", null ]
     ] ],
-    [ "Building (OpenHarmony)", "index.html#autotoc_md39", null ],
-    [ "SIMD-related throttling", "index.html#autotoc_md40", null ],
-    [ "Thread safety", "index.html#autotoc_md41", null ],
-    [ "How to best aggregate bitmaps?", "index.html#autotoc_md42", null ],
-    [ "Wrappers for Roaring Bitmaps", "index.html#autotoc_md43", [
-      [ "Python", "index.html#autotoc_md44", null ],
-      [ "JavaScript (Node.js)", "index.html#autotoc_md45", null ],
-      [ "Swift", "index.html#autotoc_md46", null ],
-      [ "C", "index.html#autotoc_md47", null ],
-      [ "Go (Golang)", "index.html#autotoc_md48", null ],
-      [ "Rust", "index.html#autotoc_md49", null ],
-      [ "D", "index.html#autotoc_md50", null ],
-      [ "Redis Module", "index.html#autotoc_md51", null ],
-      [ "Zig", "index.html#autotoc_md52", null ]
+    [ "Example (C)", "index.html#autotoc_md36", null ],
+    [ "Compressed 64-bit Roaring bitmaps (C)", "index.html#autotoc_md37", null ],
+    [ "Conventional bitsets (C)", "index.html#autotoc_md38", null ],
+    [ "Example (C++)", "index.html#autotoc_md39", null ],
+    [ "Building with cmake (Linux and macOS, Visual Studio or OpenHarmony users should see below)", "index.html#autotoc_md40", null ],
+    [ "Building (Visual Studio under Windows)", "index.html#autotoc_md41", [
+      [ "Usage (Using <span class=\"tt\">conan</span>)", "index.html#autotoc_md42", null ],
+      [ "Usage (Using <span class=\"tt\">vcpkg</span> on Windows, Linux and macOS)", "index.html#autotoc_md43", null ]
     ] ],
-    [ "Mailing list/discussion group", "index.html#autotoc_md53", null ],
-    [ "Contributing", "index.html#autotoc_md54", null ],
-    [ "Stars", "index.html#autotoc_md55", null ],
-    [ "References about Roaring", "index.html#autotoc_md56", null ],
+    [ "Building (OpenHarmony)", "index.html#autotoc_md44", null ],
+    [ "SIMD-related throttling", "index.html#autotoc_md45", null ],
+    [ "Thread safety", "index.html#autotoc_md46", null ],
+    [ "How to best aggregate bitmaps?", "index.html#autotoc_md47", null ],
+    [ "Wrappers for Roaring Bitmaps", "index.html#autotoc_md48", [
+      [ "Python", "index.html#autotoc_md49", null ],
+      [ "JavaScript (Node.js)", "index.html#autotoc_md50", null ],
+      [ "Swift", "index.html#autotoc_md51", null ],
+      [ "C", "index.html#autotoc_md52", null ],
+      [ "Go (Golang)", "index.html#autotoc_md53", null ],
+      [ "Rust", "index.html#autotoc_md54", null ],
+      [ "D", "index.html#autotoc_md55", null ],
+      [ "Redis Module", "index.html#autotoc_md56", null ],
+      [ "Zig", "index.html#autotoc_md57", null ]
+    ] ],
+    [ "Mailing list/discussion group", "index.html#autotoc_md58", null ],
+    [ "Contributing", "index.html#autotoc_md59", null ],
+    [ "Stars", "index.html#autotoc_md60", null ],
+    [ "References about Roaring", "index.html#autotoc_md61", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -98,7 +104,7 @@ var NAVTREE =
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", "globals_dup" ],
-        [ "Functions", "globals_func.html", null ],
+        [ "Functions", "globals_func.html", "globals_func" ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -109,8 +115,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"index.html#autotoc_md15"
+"df/dce/structroaring64__bulk__context__s.html#ac1c1e04fc8ac939eabee19b5ab0c992f"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';
